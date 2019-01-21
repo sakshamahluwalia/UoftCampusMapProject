@@ -10,9 +10,6 @@ Built as a project during UofT hacks 5.
 The Website has full CRUD abilities and utilizes RESTful routing as well.
 All the dependencies have been listed in package.JSON.
 
-## Visit Us
-Check out [YelpCamp](http://yelpcamp-98.herokuapp.com)
-
 ## Built With
 
 * [Node.js](https://nodejs.org/en/) 
